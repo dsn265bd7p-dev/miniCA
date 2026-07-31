@@ -1,0 +1,9 @@
+.DS_Store
+build/
+miniCA.app/
+DerivedData/
+*.xcodeproj
+*.xcuserstate
+xcuserdata/
+.swiftpm/
+dist/
